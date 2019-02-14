@@ -1,0 +1,2614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="mx.xpd.cfdi.domain.cfdi.Complemento" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Complemento.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="349" width="240" x="6280" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="mx.xpd.cfdi.domain.cfdi.Conceptos" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Conceptos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="195" x="8211" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="mx.xpd.cfdi.domain.cfdi.TUbicacion" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/TUbicacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="637" width="161" x="3331" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="mx.xpd.cfdi.domain.cfdi.Impuestos" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Impuestos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="277" width="229" x="6560" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="mx.xpd.cfdi.domain.cfdi.Retencion" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Retencion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="142" x="6789" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="mx.xpd.cfdi.domain.cfdi.RegimenFiscal" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/RegimenFiscal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="141" x="5389" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="mx.xpd.cfdi.domain.cfdi.Traslados" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Traslados.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="189" x="6560" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="mx.xpd.cfdi.domain.cfdi.Receptor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Receptor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="241" width="165" x="4520" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="mx.xpd.cfdi.domain.cfdi.Concepto" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Concepto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="493" width="297" x="10141" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="mx.xpd.cfdi.domain.cfdi.Comprobante" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Comprobante.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1519" width="204" x="6280" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="mx.xpd.cfdi.domain.cfdi.Impuesto" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Impuesto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="241" width="142" x="6560" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="mx.xpd.cfdi.domain.cfdi.Retenidos" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Retenidos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="205" x="6789" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="mx.xpd.cfdi.domain.cfdi.Emisor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/Emisor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="313" width="238" x="4725" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.concepto.ComplementoConcepto" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/concepto/ComplementoConcepto.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="115" width="288" x="10396" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.concepto.InstitucionesEducativasPrivadas" 
+    project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/concepto/InstitucionesEducativasPrivadas.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="403" width="215" x="10396" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.concepto.CuentaPredial" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/concepto/CuentaPredial.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="133" width="215" x="10141" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.concepto.instituciones.InstitucionesEducativasPrivadas" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/concepto/instituciones/InstitucionesEducativasPrivadas.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="403" width="270" x="2591" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.Seller" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="169" width="324" x="4375" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.ShipTo.NameAndAddress" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="281" x="804" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.AllowanceCharge.MonetaryAmountOrPercentage" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="214" x="1391" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.TotalAllowanceCharge" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="241" width="217" x="2166" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.DeliveryNote" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="217" x="3186" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.InvoiceCreator" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="324" x="406" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.PaymentTerms.NetPayment.PaymentTimePeriod.TimePeriodDue" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="5983" y="7033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.TotalLineAmount.GrossAmount" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="2407" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.Customs.AlternatePartyIdentification" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="1645" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.TotalLineAmount" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="151" width="214" x="2289" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.TradeItemTaxInformation" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="277" width="278" x="2543" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.OrderIdentification.ReferenceIdentification" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="5729" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.SpecialInstruction" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="1912" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="637" width="384" x="3951" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.ExtendedAttributes" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="97" width="214" x="3189" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.AlternateTradeItemIdentification" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="4459" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.RequestForPaymentIdentification" 
+    project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/RequestForPaymentIdentification.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="215" x="768" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.LogisticUnits.SerialShippingContainerCode" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="1125" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.AdditionalInformation.ReferenceIdentification" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="550" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.PaymentTerms" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="236" x="5077" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.InvoiceCreator.AlternatePartyIdentification" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="296" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.Buyer.ContactInformation.PersonOrDepartmentName" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="6541" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.Customs" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="324" x="1925" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.AdditionalInformation" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="115" width="288" x="2861" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.LogisticUnits" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="115" width="352" x="1125" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.RequestForPaymentIdentification" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="133" width="215" x="2931" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.PalletInformation" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="205" width="214" x="3443" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.AdditionalInformation" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="298" x="1290" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.InvoiceCreator.NameAndAddress" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="295" width="214" x="42" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.PaymentTerms.DiscountPayment" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="6287" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.AllowanceCharge.MonetaryAmountOrPercentage.Rate" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="6915" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.Buyer.ContactInformation" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="115" width="334" x="6541" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.AditionalQuantity" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="4967" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.TradeItemTaxInformation.TradeItemTaxAmount" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="2661" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.Buyer" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="169" width="252" x="5353" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.Customs.NameAndAddress" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="1899" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.NetPrice" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="3697" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.ShipTo" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="169" width="244" x="1628" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.TotalLineAmount.NetAmount" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="2153" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.PaymentTerms.NetPayment.PaymentTimePeriod" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="220" x="5983" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.InvoicedQuantity" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="4713" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.AllowanceCharge.MonetaryAmountOrPercentage" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="214" x="6915" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.PalletInformation.Description" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="3467" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.GrossPrice" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="5221" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.Customs" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="2423" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.AllowanceCharge" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="331" width="368" x="5645" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.OrderIdentification" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="298" x="4739" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.PaymentTerms.NetPayment" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="169" width="264" x="5983" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.TradeItemIdentification" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="3951" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.ShipmentDetail" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="214" x="2677" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.AllowanceCharge" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="331" width="368" x="1517" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.Seller.AlternatePartyIdentification" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="5475" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.PalletInformation.Transport" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="3721" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="799" width="386" x="3532" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.OrderIdentification" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/OrderIdentification.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="2106" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.AllowanceCharge.MonetaryAmountOrPercentage.RatePerUnit" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="1391" y="7033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.Currency" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="214" x="3697" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.AdditionalInformation.ReferenceIdentification" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="2915" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.ExtendedAttributes.LotNumber" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="258" x="3169" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.LineItem.TradeItemDescriptionInformation" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="214" x="4205" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.detallista.Detallista.TotalAmount" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/detallista/Detallista.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="214" x="3443" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.donatarias.Donatarias" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/donatarias/Donatarias.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="295" width="220" x="5748" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.impuestos.TrasladosLocalesWrapper" 
+    project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/impuestos/TrasladosLocalesWrapper.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="264" x="7031" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.impuestos.TrasladosLocales" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/impuestos/TrasladosLocales.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="241" width="220" x="7169" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.impuestos.RetencionesLocalesWrapper" 
+    project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/impuestos/RetencionesLocalesWrapper.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="288" x="7335" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.impuestos.ImpuestosLocales" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/impuestos/ImpuestosLocales.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="331" width="302" x="7034" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.impuestos.RetencionesLocales" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/impuestos/RetencionesLocales.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="241" width="220" x="7429" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.Deduccion" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/Deduccion.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="367" width="207" x="8183" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.HorasExtras" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/HorasExtras.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="115" width="207" x="8430" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.Percepciones" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/Percepciones.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="223" width="215" x="7926" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.Deducciones" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/Deducciones.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="223" width="209" x="8181" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.Percepcion" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/Percepcion.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="367" width="207" x="7936" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.Incapacidad" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/Incapacidad.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="259" width="207" x="7689" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.Nomina" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/Nomina.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1429" width="207" x="7926" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.HorasExtra" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/HorasExtra.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="313" width="207" x="8430" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.nomina.Incapacidades" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/nomina/Incapacidades.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="115" width="223" x="7663" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="94" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosAdquiriente.DatosAdquirientesCopSC" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="314" x="9781" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="95" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DescInmuebles.DescInmueble" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="673" width="210" x="9531" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="96" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosAdquiriente" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="314" x="9787" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="97" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DescInmuebles" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="216" x="9531" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="98" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosNotario" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="295" width="210" x="8677" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="99" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosAdquiriente.DatosUnAdquiriente" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="349" width="210" x="10135" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="100" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosEnajenante" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="314" x="9177" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosEnajenante.DatosUnEnajenante" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="349" width="210" x="9281" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="102" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosOperacion" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="349" width="210" x="8927" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="103" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosEnajenante.DatosEnajenantesCopSC.DatosEnajenanteCopSC" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="403" width="210" x="8927" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="104" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosEnajenante.DatosEnajenantesCopSC" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="314" x="8927" y="5877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="105" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.ObjectFactory" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/ObjectFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="313" width="584" x="1252" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="106" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos.DatosAdquiriente.DatosAdquirientesCopSC.DatosAdquirienteCopSC" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="403" width="210" x="9781" y="6590"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="107" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.notarios.NotariosPublicos" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/notarios/NotariosPublicos.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="313" width="234" x="9177" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="108" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.pagoenespecie.PagoEnEspecie" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/pagoenespecie/PagoEnEspecie.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="457" width="239" x="6281" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="109" language="java" name="mx.xpd.cfdi.domain.cfdi.complementos.registroFiscal.CFDIRegistroFiscal" 
+    project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/complementos/registroFiscal/CFDIRegistroFiscal.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="233" x="6008" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="110" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Retenidos" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Retenidos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="205" x="42" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="111" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.RegimenFiscal" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/RegimenFiscal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="126" x="6053" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="112" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Retencion" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Retencion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="142" x="42" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="113" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Conceptos" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Conceptos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="195" x="6829" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="114" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Firma" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Firma.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="241" width="137" x="3132" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="115" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Receptor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Receptor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="295" width="165" x="2927" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="116" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.ComprobantePDF" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/ComprobantePDF.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="2671" width="204" x="3132" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="117" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Complemento" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Complemento.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="385" width="250" x="3609" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="118" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Concepto" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Concepto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="547" width="296" x="9805" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="119" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Firmas" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Firmas.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="159" x="3132" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="120" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Emisor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Emisor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="367" width="238" x="3331" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="121" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.CartaPorte" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/CartaPorte.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="943" width="176" x="2711" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="122" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Impuestos" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Impuestos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="235" x="287" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="123" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.TUbicacion" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/TUbicacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="691" width="161" x="2927" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="124" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Traslados" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Traslados.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="189" x="287" y="3731"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="125" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.Impuesto" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/Impuesto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="241" width="142" x="224" y="5200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="126" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.complementos.concepto.CuentaPredial" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/complementos/concepto/CuentaPredial.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="133" width="231" x="269" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="127" language="java" 
+    name="mx.xpd.cfdi.domain.cfdi.pdf.complementos.concepto.InstitucionesEducativasPrivadas" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/complementos/concepto/InstitucionesEducativasPrivadas.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="403" width="231" x="8446" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="128" language="java" name="mx.xpd.cfdi.domain.cfdi.pdf.complementos.concepto.ComplementoConcepto" 
+    project="CFDI" file="/CFDI/src/main/java/mx/xpd/cfdi/domain/cfdi/pdf/complementos/concepto/ComplementoConcepto.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="288" x="8446" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="129">    
+    <end type="SOURCE" refId="118" navigable="false">      
+      <attribute id="130" name="cuentaPredial"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="132">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="133" name="lotNumber"/>      
+      <multiplicity id="134" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="136" name="domicilioFiscal"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="139" name="domicilio"/>      
+      <multiplicity id="140" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="141">    
+    <end type="SOURCE" refId="107" navigable="false">      
+      <attribute id="142" name="datosAdquiriente"/>      
+      <multiplicity id="143" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="96" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="144">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="63"/>  
+  </nesting>  
+  <association id="145">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="146" name="lineItem"/>      
+      <multiplicity id="147" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="148">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <association id="149">    
+    <end type="SOURCE" refId="88" navigable="false">      
+      <attribute id="150" name="deducciones"/>      
+      <multiplicity id="151" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <end type="SOURCE" refId="116" navigable="false">      
+      <attribute id="153" name="complemento"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="117" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="156" name="description"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="158">    
+    <end type="SOURCE" refId="100"/>    
+    <end type="TARGET" refId="104"/>  
+  </nesting>  
+  <association id="159">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="160" name="totalLineAmount"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="119" navigable="false">      
+      <attribute id="163" name="firmas"/>      
+      <multiplicity id="164" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="114" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="166" name="specialInstruction"/>      
+      <multiplicity id="167" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="168">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="169" name="additionalInformation"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="171">    
+    <end type="SOURCE" refId="128" navigable="false">      
+      <attribute id="172" name="instEducativas"/>      
+      <multiplicity id="173" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="127" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="174">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="35"/>  
+  </nesting>  
+  <nesting id="175">    
+    <end type="SOURCE" refId="94"/>    
+    <end type="TARGET" refId="106"/>  
+  </nesting>  
+  <association id="176">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="177" name="nameAndAddress"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="179">    
+    <end type="SOURCE" refId="107" navigable="false">      
+      <attribute id="180" name="datosOperacion"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="102" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="182">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="58"/>  
+  </nesting>  
+  <association id="183">    
+    <end type="SOURCE" refId="96" navigable="false">      
+      <attribute id="184" name="datosAdquirientesCopSC"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="94" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="187" name="alternatePartyIdentification"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="189">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="190" name="nomina"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="192">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="193" name="totalAllowanceCharge"/>      
+      <multiplicity id="194" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="195">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="196" name="shipmentDetail"/>      
+      <multiplicity id="197" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="67" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="198">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <association id="199">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="200" name="requestForPaymentIdentification"/>      
+      <multiplicity id="201" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="202">    
+    <end type="SOURCE" refId="116" navigable="false">      
+      <attribute id="203" name="cartaPorte"/>      
+      <multiplicity id="204" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="121" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="205">    
+    <end type="SOURCE" refId="107" navigable="false">      
+      <attribute id="206" name="descInmuebles"/>      
+      <multiplicity id="207" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="97" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="208">    
+    <end type="SOURCE" refId="115" navigable="false">      
+      <attribute id="209" name="domicilio"/>      
+      <multiplicity id="210" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="123" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="211">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="212" name="customs"/>      
+      <multiplicity id="213" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="214">    
+    <end type="SOURCE" refId="97" navigable="false">      
+      <attribute id="215" name="descInmueble"/>      
+      <multiplicity id="216" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="95" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="217">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="218" name="grossAmount"/>      
+      <multiplicity id="219" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="220">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="221" name="invoicedQuantity"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="223">    
+    <end type="SOURCE" refId="118" navigable="false">      
+      <attribute id="224" name="complementoConcepto"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="226">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="56"/>  
+  </nesting>  
+  <association id="227">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="228" name="impuestos"/>      
+      <multiplicity id="229" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="230">    
+    <end type="SOURCE" refId="104" navigable="false">      
+      <attribute id="231" name="datosEnajenanteCopSC"/>      
+      <multiplicity id="232" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="103" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="233">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="234" name="impuestosLocales"/>      
+      <multiplicity id="235" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="236">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="237" name="netPrice"/>      
+      <multiplicity id="238" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="239">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="240" name="extendedAttributes"/>      
+      <multiplicity id="241" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="242">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="44"/>  
+  </nesting>  
+  <nesting id="243">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="51"/>  
+  </nesting>  
+  <association id="244">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="245" name="deliveryNote"/>      
+      <multiplicity id="246" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="247">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="248" name="regimenFiscal"/>      
+      <multiplicity id="249" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="250">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="251" name="seller"/>      
+      <multiplicity id="252" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="253">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="254" name="aditionalQuantity"/>      
+      <multiplicity id="255" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="256">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="257" name="tradeItemIdentification"/>      
+      <multiplicity id="258" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="259">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <nesting id="260">    
+    <end type="SOURCE" refId="107"/>    
+    <end type="TARGET" refId="102"/>  
+  </nesting>  
+  <association id="261">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="262" name="complemento"/>      
+      <multiplicity id="263" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="264">    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="265" name="retencionesLocales"/>      
+      <multiplicity id="266" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="267">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="53"/>  
+  </nesting>  
+  <association id="268">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="269" name="grossPrice"/>      
+      <multiplicity id="270" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="271">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="37"/>  
+  </nesting>  
+  <nesting id="272">    
+    <end type="SOURCE" refId="107"/>    
+    <end type="TARGET" refId="100"/>  
+  </nesting>  
+  <nesting id="273">    
+    <end type="SOURCE" refId="96"/>    
+    <end type="TARGET" refId="94"/>  
+  </nesting>  
+  <association id="274">    
+    <end type="SOURCE" refId="80" navigable="false">      
+      <attribute id="275" name="trasladosLocales"/>      
+      <multiplicity id="276" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="277">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="278" name="referenceIdentification"/>      
+      <multiplicity id="279" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="280">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="49"/>  
+  </nesting>  
+  <nesting id="281">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <association id="282">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="283" name="emisor"/>      
+      <multiplicity id="284" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="285">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="286" name="nameAndAddress"/>      
+      <multiplicity id="287" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="53" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="288">    
+    <end type="SOURCE" refId="96"/>    
+    <end type="TARGET" refId="99"/>  
+  </nesting>  
+  <association id="289">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="290" name="logisticUnits"/>      
+      <multiplicity id="291" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="292">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="293" name="netAmount"/>      
+      <multiplicity id="294" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="295">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="73"/>  
+  </nesting>  
+  <nesting id="296">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="42"/>  
+  </nesting>  
+  <association id="297">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="298" name="customs"/>      
+      <multiplicity id="299" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="300">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="301" name="allowanceCharge"/>      
+      <multiplicity id="302" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="303">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="304" name="traslados"/>      
+      <multiplicity id="305" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="306">    
+    <end type="SOURCE" refId="116" navigable="false">      
+      <attribute id="307" name="emisor"/>      
+      <multiplicity id="308" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="120" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="309">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="310" name="instEducativas"/>      
+      <multiplicity id="311" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="312">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="313" name="retencionesLocales"/>      
+      <multiplicity id="314" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="315">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="66"/>  
+  </nesting>  
+  <nesting id="316">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <association id="317">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="318" name="tradeItemDescriptionInformation"/>      
+      <multiplicity id="319" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="320">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="61"/>  
+  </nesting>  
+  <association id="321">    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="322" name="paymentTimePeriod"/>      
+      <multiplicity id="323" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="324">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="325" name="receptor"/>      
+      <multiplicity id="326" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="327">    
+    <end type="SOURCE" refId="100" navigable="false">      
+      <attribute id="328" name="datosEnajenantesCopSC"/>      
+      <multiplicity id="329" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="104" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="330">    
+    <end type="SOURCE" refId="122" navigable="false">      
+      <attribute id="331" name="traslados"/>      
+      <multiplicity id="332" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="124" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="333">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="43"/>  
+  </nesting>  
+  <nesting id="334">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="57"/>  
+  </nesting>  
+  <association id="335">    
+    <end type="SOURCE" refId="96" navigable="false">      
+      <attribute id="336" name="datosUnAdquiriente"/>      
+      <multiplicity id="337" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="99" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="338">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="339" name="orderIdentification"/>      
+      <multiplicity id="340" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="341">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="342" name="currency"/>      
+      <multiplicity id="343" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="344">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <nesting id="345">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <nesting id="346">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="67"/>  
+  </nesting>  
+  <nesting id="347">    
+    <end type="SOURCE" refId="97"/>    
+    <end type="TARGET" refId="95"/>  
+  </nesting>  
+  <nesting id="348">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <nesting id="349">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="59"/>  
+  </nesting>  
+  <association id="350">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="351" name="buyer"/>      
+      <multiplicity id="352" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="52" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="353">    
+    <end type="SOURCE" refId="104"/>    
+    <end type="TARGET" refId="103"/>  
+  </nesting>  
+  <association id="354">    
+    <end type="SOURCE" refId="116" navigable="false">      
+      <attribute id="355" name="conceptos"/>      
+      <multiplicity id="356" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="113" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="357">    
+    <end type="SOURCE" refId="91" navigable="false">      
+      <attribute id="358" name="incapacidades"/>      
+      <multiplicity id="359" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="93" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="360">    
+    <end type="SOURCE" refId="107"/>    
+    <end type="TARGET" refId="98"/>  
+  </nesting>  
+  <nesting id="361">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="48"/>  
+  </nesting>  
+  <association id="362">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="363" name="cuentaPredial"/>      
+      <multiplicity id="364" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="365">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="366" name="shipTo"/>      
+      <multiplicity id="367" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="368">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="68"/>  
+  </nesting>  
+  <association id="369">    
+    <end type="SOURCE" refId="100" navigable="false">      
+      <attribute id="370" name="datosUnEnajenante"/>      
+      <multiplicity id="371" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="101" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="372">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="373" name="complementoConcepto"/>      
+      <multiplicity id="374" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="375">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <nesting id="376">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="75"/>  
+  </nesting>  
+  <association id="377">    
+    <end type="SOURCE" refId="120" navigable="false">      
+      <attribute id="378" name="domicilioFiscal"/>      
+      <multiplicity id="379" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="380">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="46"/>  
+  </nesting>  
+  <association id="381">    
+    <end type="SOURCE" refId="122" navigable="false">      
+      <attribute id="382" name="retenidos"/>      
+      <multiplicity id="383" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="110" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="384">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="385" name="additionalInformation"/>      
+      <multiplicity id="386" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="387">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="388" name="discountPayment"/>      
+      <multiplicity id="389" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="390">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="69"/>  
+  </nesting>  
+  <nesting id="391">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <nesting id="392">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="50"/>  
+  </nesting>  
+  <nesting id="393">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="74"/>  
+  </nesting>  
+  <association id="394">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="395" name="nameAndAddress"/>      
+      <multiplicity id="396" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="397">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="398" name="paymentTerms"/>      
+      <multiplicity id="399" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="37" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="400">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="76"/>  
+  </nesting>  
+  <nesting id="401">    
+    <end type="SOURCE" refId="100"/>    
+    <end type="TARGET" refId="101"/>  
+  </nesting>  
+  <association id="402">    
+    <end type="SOURCE" refId="116" navigable="false">      
+      <attribute id="403" name="impuestos"/>      
+      <multiplicity id="404" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="122" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="405">    
+    <end type="SOURCE" refId="110" navigable="false">      
+      <attribute id="406" name="retenciones"/>      
+      <multiplicity id="407" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="112" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="408">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="409" name="traslados"/>      
+      <multiplicity id="410" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="411">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="412" name="referenceIdentification"/>      
+      <multiplicity id="413" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="414">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="23"/>  
+  </nesting>  
+  <association id="415">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="416" name="retenciones"/>      
+      <multiplicity id="417" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="418">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="419" name="notariosPublicos"/>      
+      <multiplicity id="420" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="107" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="421">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="77"/>  
+  </nesting>  
+  <association id="422">    
+    <end type="SOURCE" refId="107" navigable="false">      
+      <attribute id="423" name="datosNotario"/>      
+      <multiplicity id="424" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="98" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="425">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <association id="426">    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="427" name="contactInformation"/>      
+      <multiplicity id="428" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="429">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="430" name="detallista"/>      
+      <multiplicity id="431" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="432">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="60"/>  
+  </nesting>  
+  <association id="433">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="434" name="donatarias"/>      
+      <multiplicity id="435" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="436">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="437" name="ratePerUnit"/>      
+      <multiplicity id="438" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="439">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <nesting id="440">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <association id="441">    
+    <end type="SOURCE" refId="91" navigable="false">      
+      <attribute id="442" name="percepciones"/>      
+      <multiplicity id="443" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="444">    
+    <end type="SOURCE" refId="93" navigable="false">      
+      <attribute id="445" name="incapacidades"/>      
+      <multiplicity id="446" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="90" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="447">    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="448" name="rate"/>      
+      <multiplicity id="449" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="450">    
+    <end type="SOURCE" refId="117" navigable="false">      
+      <attribute id="451" name="detallista"/>      
+      <multiplicity id="452" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="453">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <nesting id="454">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="45"/>  
+  </nesting>  
+  <nesting id="455">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="62"/>  
+  </nesting>  
+  <association id="456">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="457" name="alternateTradeItemIdentification"/>      
+      <multiplicity id="458" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="459">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="460" name="pagoEnEspecie"/>      
+      <multiplicity id="461" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="108" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="462">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="463" name="horasExtra"/>      
+      <multiplicity id="464" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="92" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="465">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="466" name="alternatePartyIdentification"/>      
+      <multiplicity id="467" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="468">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="469" name="serialShippingContainerCode"/>      
+      <multiplicity id="470" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="471">    
+    <end type="SOURCE" refId="87" navigable="false">      
+      <attribute id="472" name="percepciones"/>      
+      <multiplicity id="473" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="89" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="474">    
+    <bendpoint x="4701" y="3731"/>    
+    <end type="SOURCE" refId="120" navigable="false">      
+      <attribute id="475" name="regimenFiscal"/>      
+      <multiplicity id="476" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="111" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="477">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="478" name="retenidos"/>      
+      <multiplicity id="479" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="480">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="39"/>  
+  </nesting>  
+  <association id="481">    
+    <end type="SOURCE" refId="124" navigable="false">      
+      <attribute id="482" name="traslados"/>      
+      <multiplicity id="483" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="125" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="484">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="55"/>  
+  </nesting>  
+  <association id="485">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="486" name="monetaryAmountOrPercentage"/>      
+      <multiplicity id="487" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="488">    
+    <end type="SOURCE" refId="107"/>    
+    <end type="TARGET" refId="96"/>  
+  </nesting>  
+  <association id="489">    
+    <end type="SOURCE" refId="120" navigable="false">      
+      <attribute id="490" name="expedidoEn"/>      
+      <multiplicity id="491" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="492">    
+    <end type="SOURCE" refId="91" navigable="false">      
+      <attribute id="493" name="deducciones"/>      
+      <multiplicity id="494" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="88" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="495">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="496" name="invoiceCreator"/>      
+      <multiplicity id="497" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="498">    
+    <end type="SOURCE" refId="116" navigable="false">      
+      <attribute id="499" name="receptor"/>      
+      <multiplicity id="500" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="115" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="501">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="502" name="registroFiscal"/>      
+      <multiplicity id="503" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="109" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="504">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="70"/>  
+  </nesting>  
+  <nesting id="505">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="31"/>  
+  </nesting>  
+  <association id="506">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="507" name="expedidoEn"/>      
+      <multiplicity id="508" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="509">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="78"/>  
+  </nesting>  
+  <association id="510">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="511" name="timePeriodDue"/>      
+      <multiplicity id="512" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="513">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="514" name="personOrDepartmentName"/>      
+      <multiplicity id="515" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="516">    
+    <end type="SOURCE" refId="113" navigable="false">      
+      <attribute id="517" name="conceptos"/>      
+      <multiplicity id="518" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="118" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="519">    
+    <end type="SOURCE" refId="107"/>    
+    <end type="TARGET" refId="97"/>  
+  </nesting>  
+  <nesting id="520">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <nesting id="521">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="54"/>  
+  </nesting>  
+  <nesting id="522">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="64"/>  
+  </nesting>  
+  <association id="523">    
+    <end type="SOURCE" refId="94" navigable="false">      
+      <attribute id="524" name="datosAdquirienteCopSC"/>      
+      <multiplicity id="525" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="106" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="526">    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="527" name="monetaryAmountOrPercentage"/>      
+      <multiplicity id="528" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="529">    
+    <end type="SOURCE" refId="107" navigable="false">      
+      <attribute id="530" name="datosEnajenante"/>      
+      <multiplicity id="531" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="100" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="532">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="533" name="trasladosLocales"/>      
+      <multiplicity id="534" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="80" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="535">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="536" name="conceptos"/>      
+      <multiplicity id="537" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="538">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="539" name="tradeItemTaxAmount"/>      
+      <multiplicity id="540" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="541">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="542" name="transport"/>      
+      <multiplicity id="543" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="544">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="545" name="netPayment"/>      
+      <multiplicity id="546" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="547">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <nesting id="548">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <association id="549">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="550" name="conceptos"/>      
+      <multiplicity id="551" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="552">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="553" name="allowanceCharge"/>      
+      <multiplicity id="554" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="555">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <association id="556">    
+    <end type="SOURCE" refId="116" navigable="false">      
+      <attribute id="557" name="firmas"/>      
+      <multiplicity id="558" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="119" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="559">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="560" name="alternatePartyIdentification"/>      
+      <multiplicity id="561" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="562">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="41"/>  
+  </nesting>  
+  <association id="563">    
+    <end type="SOURCE" refId="91" navigable="false">      
+      <attribute id="564" name="horasExtras"/>      
+      <multiplicity id="565" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="86" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="566">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="567" name="palletInformation"/>      
+      <multiplicity id="568" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="44" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="569">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="570" name="tradeItemTaxInformation"/>      
+      <multiplicity id="571" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="572">    
+    <end type="SOURCE" refId="111"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <nesting id="573">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="47"/>  
+  </nesting>  
+  <association id="574">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="575" name="totalAmount"/>      
+      <multiplicity id="576" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="577">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="578" name="referenceIdentification"/>      
+      <multiplicity id="579" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="580">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="65"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

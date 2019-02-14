@@ -1,0 +1,62 @@
+package mx.xpd.cfdi.domain.prefactura;
+
+public class ConstantesPrefactura {
+
+	 public static final String NODO_COMPROBANTE = "Comprobante";
+	 public static final String NODO_RECEPTOR = "Receptor";
+	 public static final String NODO_EMISOR = "Emisor";
+	 public static final String NODO_CONCEPTOS = "Conceptos";
+	 public static final String NODO_CONCEPTO = "Concepto";
+	 public static final String NODO_IMPUESTOS = "Impuestos";
+	 public static final String NODO_TRASLADOS = "Traslados";
+	 public static final String NODO_TRASLADO = "Traslado";
+	 public static final String NODO_RETENCIONES = "Retenciones";
+	 public static final String NODO_RETENCION = "Retencion";
+	 public static final String NODO_PARTE = "Parte";
+	 public static final String NODO_ADUANAS = "Aduanas";
+	 public static final String NODO_INFORMACION_ADUANERA = "InformacioAduanera";
+	 public static final String NODO_CFDIS_RELACIONADOS = "CfdisRelacionados";
+	 public static final String NODO_CFDI_RELACIONADO = "CfdiRelacionado";
+	 
+	 public static final String ATRIB_BASE = "Base";
+	 public static final String ATRIB_CANTIDAD = "Cantidad";
+	 public static final String ATRIB_CLAVEPRODSERV = "ClaveProdServ";
+	 public static final String ATRIB_CLAVEUNIDAD = "ClaveUnidad";
+	 public static final String ATRIB_DESCRIPCION = "Descripcion";
+	 public static final String ATRIB_EMAIL = "Email";
+	 public static final String ATRIB_FECHA = "Fecha";
+	 public static final String ATRIB_FOLIO = "Folio";
+	 public static final String ATRIB_FORMAPAGO = "FormaPago";
+	 public static final String ATRIB_IMPORTE = "Importe";
+	 public static final String ATRIB_IMPUESTO = "Impuesto";
+	 public static final String ATRIB_LUGAREXPEDICION = "LugarExpedicion";
+	 public static final String ATRIB_METODOPAGO = "MetodoPago";
+	 public static final String ATRIB_MONEDA = "Moneda";
+	 public static final String ATRIB_NOIDENTIFICACION = "NoIdentificacion";
+	 public static final String ATRIB_NOMBRE = "Nombre";
+	 public static final String ATRIB_NUMREGIDTRIB = "NumRegIdTrib";
+	 public static final String ATRIB_REGIMENFISCAL = "RegimenFiscal";
+	 public static final String ATRIB_RESIDENCIAFISCAL = "ResidenciaFiscal";
+	 public static final String ATRIB_RFC = "Rfc";
+	 public static final String ATRIB_SERIE = "Serie";
+	 public static final String ATRIB_TASAOCUOTA = "TasaOCuota";
+	 public static final String ATRIB_TIPOCAMBIO = "TipoCambio";
+	 public static final String ATRIB_TIPODECOMPROBANTE = "TipoDeComprobante";
+	 public static final String ATRIB_TIPOFACTOR = "TipoFactor";
+	 public static final String ATRIB_UNIDAD = "Unidad";
+	 public static final String ATRIB_USOCFDI = "UsoCfdi";
+	 public static final String ATRIB_VALORUNITARIO = "ValorUnitario";
+	 public static final String ATRIB_CONDICIONES_PAGO = "CondicionesPago";
+	 public static final String ATRIB_CONFIRMACION = "Confirmacion";
+	 public static final String ATRIB_NO_IDENTIFICACION = "NoIdentificacion";
+	 public static final String ATRIB_DESCUENTO = "Descuento";
+	 public static final String ATRIB_IEPS = "Ieps";
+	 public static final String ATRIB_IVA = "Iva";
+	 public static final String ATRIB_IVA_RETENIDO = "IvaRetenido";
+	 public static final String ATRIB_NUMERO_PEDIMENTO = "NumeroPedimento";
+	 public static final String ATRIB_CUENTA_PREDIAL = "CuentaPredial";
+	 public static final String ATRIB_TIPO_RELACION = "TipoRelacion";
+	 public static final String ATRIB_UUID = "Uuid";
+	 public static final String ATRIB_OBSERVACIONES = "Observaciones";
+	 public static final String VALUE_DEFAULT = "default";
+}

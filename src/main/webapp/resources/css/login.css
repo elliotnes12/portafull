@@ -1,0 +1,58 @@
+.b{
+    border: 1px solid;
+}
+body{
+    color: #202C69;
+    font-size: 18px;
+    font-weight: bolder;
+}
+#login a, #login a:visited{
+    color: #202C69;
+}
+div.header, div.content, div.footer{
+    margin: auto;
+    margin-top: 50px;
+    max-width: 960px;
+    min-width: 360px;
+    width: 100%;
+}
+div.login{
+    background-color: #E8E8E8;
+    /*background-color: rgba(232,232,232,0);*/
+    border-left: 1px solid #fbfbfb;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    /*box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);*/
+    /*padding-left: 0;
+    padding-right: 0;*/
+}
+div.login .login-header{
+    background-color: #202C69;
+    border-radius: 10px 10px 0px 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    color: #FEFEFE;
+    /*font-weight: bolder;*/
+}
+div.login input[type="text"], div.login input[type="password"]{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: 90%;
+}
+div.login input[type="submit"]{
+    background-color: #002565;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    font-weight: bold;
+    color: #ffd777;
+    font-size: 18px;
+    margin: 15px;
+    padding: 5px;
+}

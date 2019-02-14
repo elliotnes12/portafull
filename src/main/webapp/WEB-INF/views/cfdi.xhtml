@@ -1,0 +1,183 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:c="http://xmlns.jcp.org/jsp/jstl/core"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:fn="http://java.sun.com/jsp/jstl/functions">
+<h:head>
+	<h:title>Titulo</h:title>
+	<h:outputStylesheet library="css" name="primeflex.css" />
+	<h:outputStylesheet library="css" name="cfdi.css" />
+	<h:outputStylesheet library="css" name="grid.css" />
+</h:head>
+<h:body style="margin:50px;">
+
+
+	<div class="containter">
+		<div id="invoice">
+
+
+			<div class="container-float">
+				<div class="container-float-left">
+					<input type="hidden" class="comprobante" name="numDecimales" /> <img
+						src="/CFDI33/images/logo/${datosE.tenantId}"
+						class="image-responsive" /> <span class="title-razonSocial">${datosE.razonSocial}</span>
+					<div class="field">
+						<span class="field-label">R.F.C</span> <span class="field-value">${datosE.rfc}</span>
+						<input type="hidden" name="rfc" class="emisor"
+							value="${datosE.rfc}" id="emisorRfc" />
+					</div>
+					<div class="field">
+						<span class="field-label">Codigo Postal</span> <span
+							class="field-value">${datosE.codigoPostal}</span> <input
+							type="hidden" name="codigoPostal" class="emisorDomicilio"
+							value="${datosE.codigoPostal}" id="emisorLugarExpedicion" />
+					</div>
+					<div class="field">
+						<span class="field-label">Lugar de Expedicion</span> <span
+							class="field-combo">
+							<p:selectOneMenu id="lugarExpedicion" name="lugarExpedicion"  value="#{listar.selectedItem}">
+								<f:selectItem itemLabel="Selecciona una opción" />
+								<f:selectItems value="#{listar.getListLocalizaciones()}" />
+							</p:selectOneMenu>
+						</span>
+					</div>
+					<div class="field">
+						<span class="field-label">Regimen Fiscal</span> <span
+							class="field-combo"> 
+							<p:selectOneMenu id="regimen" name="regimen" value="">
+								<f:selectItem itemLabel="Selecciona una opción" />
+								<f:selectItems value="#{listar.getListRegimen()}" />
+							</p:selectOneMenu>
+						</span>
+					</div>
+				</div>
+				<div class="container-float-right">
+					<div class="field">
+						<span class="field-label">Serie</span> <span class="field-input">
+							<input type="text" maxlength="25" id="serie" name="serie"
+							class="input-small comprobante text-center" placeholder="Serie"
+							value="${configuracion.serie}" />
+						</span>
+					</div>
+					<div class="field">
+						<span class="field-label">Folio</span> <span class="field-input">
+							<input type="text" maxlength="40" id="folio" name="folio"
+							class="input-small comprobante text-center" placeholder="" />
+						</span>
+					</div>
+
+					<div class="field">
+						<span class="field-label">Fecha</span>
+						<div class="field-input mascara">
+							<input type="text" value="${fecha}" name="fecha" id="fecha" />
+							<div class="">${fn:substring(fecha, 0, 10)}</div>
+						</div>
+					</div>
+
+					<div class="field">
+						<span class="field-label">Tipo de CFDI</span>
+						<div class="field-combo">
+							<p:selectOneMenu id="btnTipoComprobante">
+								<f:selectItem itemLabel="Selecciona una opción" />
+								<f:selectItem itemLabel="Recibo de Honorarios" />
+								<f:selectItem itemLabel="Recibo de Arrendamiento" />
+								<f:selectItem itemLabel="Nota de Cargo" />
+								<f:selectItem itemLabel="Recibo de Donativo" />
+								<f:selectItem itemLabel="Constancia de retención" />
+								<f:selectItem itemLabel="Nota de Cargo" />
+								<f:selectItem itemLabel="Carta Porte" />
+								<f:selectItem itemLabel="Pago" />
+							</p:selectOneMenu>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+			<span class="title-separador"> Facturar a: </span>
+
+
+			<section class="section">
+
+				<div class="field">
+					<span class="field-label">Nombre/Razón Social:</span> 
+					<span class="field-input"> 
+					<input class="receptor"
+						maxlength="254" id="nombreReceptor" autocomplete="off"
+						name="nombreReceptor" type="text"
+						placeholder="Razón Social o Clave" />
+					</span>
+				</div>
+
+				<div class="field">
+					<span class="field-label">R.F.C :</span> 
+					<span class="field-input">
+						<input type="text" id="rfc" name="rfc" autocomplete="off"
+						class="receptor" placeholder="R.F.C." />
+					</span>
+				</div>
+				
+				<div class="field">
+					<span class="field-label">Correo electrónico:</span> 
+					<span class="field-input">
+						<input type="text" id="email" name="email" placeholder="correo@empresa.com.mx" class="receptor" />
+					</span>
+				</div>
+				
+				<div class="field">
+					<span class="field-label">Uso de Cfdi:</span> 
+					<span class="field-input">
+						<p:selectOneMenu name="usoCFDI" value="">
+							<f:selectItem itemLabel="Selecciona una opción" />
+							<f:selectItems value="${listarFuncion}" />
+						</p:selectOneMenu>
+					</span>
+				</div>
+				
+				<div class="field">
+					<span class="field-label">Residencia Fiscal:</span> 
+					<span class="field-input">
+						<p:selectOneMenu styleClass="receptor" id="residenciaFiscal" value="">
+							<f:selectItem itemLabel="Selecciona una opción" />
+						</p:selectOneMenu>
+					</span>
+				</div>
+				<div class="field">
+					<span class="field-label">Num. Reg. Id Trib:</span> 
+					<span class="field-input">
+					  	<input type="text" id="numRegIdTrib" name="numRegIdTrib" maxlength="40" class="receptor" />
+					</span>
+				</div>
+
+			</section>
+			
+			<span class="title-separador"> Forma de Pago: </span>
+			
+			<section class="section">
+			     <div class="field">
+					<span class="field-label">Forma de Pago:</span> 
+					<span class="field-input">
+						<p:selectOneMenu  name="formaPago" id="formaPago" value="">
+							<f:selectItem itemLabel="Selecciona una opción" />
+						</p:selectOneMenu>
+					</span>
+				</div>
+				<div class="field">
+					<span class="field-label">Condiciones de pago:</span> 
+					<span class="field-input">
+						<input type="text" maxlength="1000" name="condicionesDePago" id="condicionesDePago" value="Pago en una sola exhibici&oacute;n" class="comprobante" />
+				    </span>
+				</div>
+			</section>
+
+
+
+		</div>
+	</div>
+
+
+
+
+</h:body>
+</html>

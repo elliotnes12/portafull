@@ -1,0 +1,2474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="mx.xpd.cfdi.mvc.UsuarioRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/UsuarioRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="267" x="15950" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="mx.xpd.cfdi.mvc.DescargarController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/DescargarController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="321" x="24417" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="mx.xpd.cfdi.mvc.FoliosController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/FoliosController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="234" x="24143" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="mx.xpd.cfdi.mvc.LugarEmisionRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/LugarEmisionRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="187" x="17413" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="mx.xpd.cfdi.mvc.PlantillaController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/PlantillaController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="294" x="13586" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="mx.xpd.cfdi.mvc.SyncController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/SyncController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="107" y="396"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="mx.xpd.cfdi.mvc.EmpleadoController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/EmpleadoController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="296" x="6155" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="mx.xpd.cfdi.mvc.GrupoUsuarioController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/GrupoUsuarioController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="302" x="10349" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="mx.xpd.cfdi.mvc.LugarEmisionController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/LugarEmisionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="269" x="21303" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="mx.xpd.cfdi.mvc.UsuarioController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/UsuarioController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="277" width="325" x="22705" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="mx.xpd.cfdi.mvc.UnidadController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/UnidadController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="280" x="11229" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="mx.xpd.cfdi.mvc.NominaController.NominaThread" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/NominaController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="124" x="19613" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="mx.xpd.cfdi.mvc.ClienteController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ClienteController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="241" width="333" x="23070" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="mx.xpd.cfdi.mvc.ErroresController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ErroresController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="125" x="9299" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="mx.xpd.cfdi.mvc.EmitirController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/EmitirController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="100" y="514"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="mx.xpd.cfdi.mvc.RegimenFiscalController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/RegimenFiscalController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="274" x="13031" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="mx.xpd.cfdi.mvc.ParametroController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ParametroController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="255" x="26198" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="mx.xpd.cfdi.mvc.AuditoriaController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/AuditoriaController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="421" width="309" x="17869" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="mx.xpd.cfdi.mvc.ClienteRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ClienteRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="241" width="288" x="20692" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="mx.xpd.cfdi.mvc.RegimenFiscalRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/RegimenFiscalRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="193" x="12798" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="mx.xpd.cfdi.mvc.GrupoUsuarioRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/GrupoUsuarioRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="196" x="12314" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="mx.xpd.cfdi.mvc.RegistrarXpdSystemController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/RegistrarXpdSystemController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="252" x="25426" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="mx.xpd.cfdi.mvc.UnidadRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/UnidadRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="212" x="11786" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="mx.xpd.cfdi.mvc.PasosController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/PasosController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="111" y="636"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="mx.xpd.cfdi.mvc.ComprobanteController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ComprobanteController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="439" width="435" x="18874" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="mx.xpd.cfdi.mvc.NominaController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/NominaController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="457" width="468" x="19349" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="mx.xpd.cfdi.mvc.ComprobanteRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ComprobanteRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="349" width="514" x="21612" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="mx.xpd.cfdi.mvc.CertificadoSelloDigitalRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/CertificadoSelloDigitalRestController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="97" width="235" x="22166" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="mx.xpd.cfdi.mvc.ParametroRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ParametroRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="169" x="26493" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="mx.xpd.cfdi.mvc.ImageController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ImageController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="197" x="26914" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="mx.xpd.cfdi.mvc.MonedaRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/MonedaRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="153" x="15757" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="mx.xpd.cfdi.mvc.ProductoServicioRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ProductoServicioRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="333" x="18218" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="mx.xpd.cfdi.mvc.MonedaController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/MonedaController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="243" x="15474" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="mx.xpd.cfdi.mvc.ProductoServicioController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ProductoServicioController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="422" x="16711" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="mx.xpd.cfdi.mvc.ConfiguracionCFDIController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/ConfiguracionCFDIController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="284" x="14492" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="mx.xpd.cfdi.mvc.MenuController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/MenuController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="157" x="3958" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="mx.xpd.cfdi.mvc.RegistroController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/RegistroController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="440" x="25718" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="mx.xpd.cfdi.mvc.RegistroRestController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/RegistroRestController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="185" x="27151" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="mx.xpd.cfdi.mvc.DatosEmisorController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/DatosEmisorController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="409" x="24977" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="mx.xpd.cfdi.mvc.LoginController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/LoginController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="313" width="429" x="20223" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="mx.xpd.cfdi.mvc.CertificadoSelloDigitalController" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/mvc/CertificadoSelloDigitalController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="259" width="444" x="23443" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="mx.xpd.cfdi.security.UserDetailsServiceImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/security/UserDetailsServiceImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="225" x="10691" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="mx.xpd.cfdi.security.SecurityInterceptor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/security/SecurityInterceptor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="135" x="3548" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="mx.xpd.cfdi.security.CustomUsernamePasswordAuthenticationFilter" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/security/CustomUsernamePasswordAuthenticationFilter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="133" width="404" x="14816" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="mx.xpd.cfdi.security.MyAccessDeniedHandler" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/security/MyAccessDeniedHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="401" x="7741" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="mx.xpd.cfdi.security.CustomSecurityInterceptor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/security/CustomSecurityInterceptor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="414" x="16257" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="47" language="java" name="mx.xpd.cfdi.repo.RegimenFiscalDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/RegimenFiscalDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="208" x="15196" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="48" language="java" name="mx.xpd.cfdi.repo.ModuloDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ModuloDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="134" x="10371" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="49" language="java" name="mx.xpd.cfdi.repo.PlantillaDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/PlantillaDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="201" x="13345" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="50" language="java" name="mx.xpd.cfdi.repo.ProductoServicioDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ProductoServicioDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="243" x="17869" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="51" language="java" name="mx.xpd.cfdi.repo.PaisEstadoDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/PaisEstadoDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="159" x="24778" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="mx.xpd.cfdi.repo.DatosEmisorDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/DatosEmisorDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="176" x="23927" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="mx.xpd.cfdi.repo.ConfiguracionCFDIDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ConfiguracionCFDIDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="191" x="14261" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="54" language="java" name="mx.xpd.cfdi.repo.EmpleadoDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/EmpleadoDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="281" x="6323" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="55" language="java" name="mx.xpd.cfdi.repo.ModuloDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ModuloDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="133" width="134" x="10175" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="mx.xpd.cfdi.repo.ComprobanteDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ComprobanteDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="403" width="326" x="19857" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="57" language="java" name="mx.xpd.cfdi.repo.PaisEstadoDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/PaisEstadoDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="97" width="159" x="22705" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="58" language="java" name="mx.xpd.cfdi.repo.UsuarioDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/UsuarioDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="367" width="189" x="17640" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="mx.xpd.cfdi.repo.ProductoServicioDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ProductoServicioDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="277" width="243" x="18591" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="mx.xpd.cfdi.repo.RegimenFiscalDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/RegimenFiscalDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="208" x="12550" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="mx.xpd.cfdi.repo.GrupoUsuarioDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/GrupoUsuarioDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="277" width="236" x="12038" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="62" language="java" name="mx.xpd.cfdi.repo.GrupoUsuarioDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/GrupoUsuarioDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="236" x="14920" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="63" language="java" name="mx.xpd.cfdi.repo.LugarEmisionDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/LugarEmisionDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="200" x="17173" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="64" language="java" name="mx.xpd.cfdi.repo.UnidadDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/UnidadDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="197" x="14492" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="65" language="java" name="mx.xpd.cfdi.repo.UsuarioDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/UsuarioDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="277" width="189" x="17481" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="66" language="java" name="mx.xpd.cfdi.repo.ClienteDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ClienteDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="475" width="243" x="21020" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="mx.xpd.cfdi.repo.PermisoDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/PermisoDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="233" x="10956" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="mx.xpd.cfdi.repo.UnidadDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/UnidadDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="197" x="11549" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="mx.xpd.cfdi.repo.AddendaDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/AddendaDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="122" x="2906" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="70" language="java" name="mx.xpd.cfdi.repo.PermisoDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/PermisoDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="233" x="13170" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="71" language="java" name="mx.xpd.cfdi.repo.AuditoriaDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/AuditoriaDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="439" width="301" x="13920" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="72" language="java" name="mx.xpd.cfdi.repo.ComprobanteDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ComprobanteDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="367" width="326" x="18700" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="73" language="java" name="mx.xpd.cfdi.repo.ParametroDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ParametroDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="172" x="26702" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="74" language="java" name="mx.xpd.cfdi.repo.ParametroDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ParametroDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="172" x="25426" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="75" language="java" name="mx.xpd.cfdi.repo.EmpleadoDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/EmpleadoDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="223" width="281" x="6491" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="76" language="java" name="mx.xpd.cfdi.repo.DatosEmisorDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/DatosEmisorDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="176" x="21612" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="77" language="java" name="mx.xpd.cfdi.repo.MonedaDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/MonedaDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="174" x="16257" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="78" language="java" name="mx.xpd.cfdi.repo.AuditoriaDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/AuditoriaDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="385" width="301" x="15685" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="79" language="java" name="mx.xpd.cfdi.repo.ClienteDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ClienteDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="403" width="243" x="19066" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="80" language="java" name="mx.xpd.cfdi.repo.RegistroDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/RegistroDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="79" width="152" x="26417" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="81" language="java" name="mx.xpd.cfdi.repo.ConfiguracionCFDIDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/ConfiguracionCFDIDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="169" width="191" x="16026" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="82" language="java" name="mx.xpd.cfdi.repo.CertificadoSelloDigitalDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/CertificadoSelloDigitalDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="224" x="22441" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="83" language="java" name="mx.xpd.cfdi.repo.LugarEmisionDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/LugarEmisionDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="205" width="200" x="17241" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="84" language="java" name="mx.xpd.cfdi.repo.PlantillaDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/PlantillaDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="201" x="15444" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="85" language="java" name="mx.xpd.cfdi.repo.CertificadoSelloDigitalDao" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/CertificadoSelloDigitalDao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="187" width="224" x="19349" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="86" language="java" name="mx.xpd.cfdi.repo.MonedaDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/MonedaDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="259" width="174" x="15260" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="87" language="java" name="mx.xpd.cfdi.repo.RegistroDaoImpl" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/repo/RegistroDaoImpl.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="151" width="205" x="27376" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="88" language="java" name="mx.xpd.cfdi.domain.Cancelacion" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Cancelacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="475" width="216" x="3292" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="89" language="java" name="mx.xpd.cfdi.domain.AuditoriaCertificadoSelloDigital" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/AuditoriaCertificadoSelloDigital.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1177" width="203" x="8826" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="90" language="java" name="mx.xpd.cfdi.domain.AuditoriaDatosEmisor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/AuditoriaDatosEmisor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1609" width="195" x="2223" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="91" language="java" name="mx.xpd.cfdi.domain.Pais" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Pais.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="257" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="mx.xpd.cfdi.domain.Addenda" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Addenda.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="583" width="184" x="2458" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="mx.xpd.cfdi.domain.CfdEmitido" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/CfdEmitido.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1447" width="201" x="9464" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="94" language="java" name="mx.xpd.cfdi.domain.Comprobante" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Comprobante.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1483" width="204" x="9931" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="95" language="java" name="mx.xpd.cfdi.domain.ProductoServicio" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/ProductoServicio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="853" width="184" x="8394" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="96" language="java" name="mx.xpd.cfdi.domain.DatosEmisor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/DatosEmisor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1951" width="195" x="3723" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="97" language="java" name="mx.xpd.cfdi.domain.RegistroForm" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/RegistroForm.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1222" y="582"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="98" language="java" name="mx.xpd.cfdi.domain.Plantilla" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Plantilla.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="367" width="156" x="5544" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="99" language="java" name="mx.xpd.cfdi.domain.CertificadoSelloDigital" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/CertificadoSelloDigital.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1069" width="190" x="4379" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="100" language="java" name="mx.xpd.cfdi.domain.Parametro" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Parametro.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="583" width="184" x="4155" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="101" language="java" name="mx.xpd.cfdi.domain.GrupoUsuario" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/GrupoUsuario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="817" width="184" x="9705" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="102" language="java" name="mx.xpd.cfdi.domain.AuditoriaUsuario" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/AuditoriaUsuario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1501" width="190" x="4839" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="103" language="java" name="mx.xpd.cfdi.domain.AuditoriaGrupoUsuario" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/AuditoriaGrupoUsuario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="799" width="190" x="7287" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="104" language="java" name="mx.xpd.cfdi.domain.Usuario" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Usuario.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="636" y="926"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="105" language="java" name="mx.xpd.cfdi.domain.AuditoriaLugarEmision" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/AuditoriaLugarEmision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1339" width="190" x="5740" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="106" language="java" name="mx.xpd.cfdi.domain.LugarEmision" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/LugarEmision.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1249" width="184" x="7063" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="107" language="java" name="mx.xpd.cfdi.domain.AuditoriaMoneda" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/AuditoriaMoneda.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="799" width="190" x="4609" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="108" language="java" name="mx.xpd.cfdi.domain.Empleado" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Empleado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1375" width="211" x="6812" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="109" language="java" name="mx.xpd.cfdi.domain.Semilla" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Semilla.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="421" width="184" x="2682" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="110" language="java" name="mx.xpd.cfdi.domain.Conceptos" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Conceptos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="115" width="195" x="10136" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="111" language="java" name="mx.xpd.cfdi.domain.RegimenFiscal" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/RegimenFiscal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="547" width="184" x="5069" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="112" language="java" name="mx.xpd.cfdi.domain.ComprobanteNoTimbrado" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/ComprobanteNoTimbrado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="457" width="172" x="8182" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="113" language="java" name="mx.xpd.cfdi.domain.Moneda" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Moneda.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="637" width="184" x="3068" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="114" language="java" name="mx.xpd.cfdi.domain.Modulo" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Modulo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="349" width="145" x="5970" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="115" language="java" name="mx.xpd.cfdi.domain.Email" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Email.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="385" width="168" x="8618" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="116" language="java" name="mx.xpd.cfdi.domain.ConfiguracionCFDI" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/ConfiguracionCFDI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1717" width="211" x="5293" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="117" language="java" name="mx.xpd.cfdi.domain.Concepto" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Concepto.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="403" width="173" x="10136" y="2795"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="118" language="java" name="mx.xpd.cfdi.domain.Permiso" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Permiso.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="727" width="222" x="9669" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="119" language="java" name="mx.xpd.cfdi.domain.Estado" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Estado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="257" y="330"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="120" language="java" name="mx.xpd.cfdi.domain.CatalogosNomina" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/CatalogosNomina.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="295" width="137" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="121" language="java" name="mx.xpd.cfdi.domain.TUbicacion" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/TUbicacion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="637" width="161" x="9698" y="2795"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="122" language="java" name="mx.xpd.cfdi.domain.AuditoriaProductoServicio" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/AuditoriaProductoServicio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="842" y="539"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="123" language="java" name="mx.xpd.cfdi.domain.Emisor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Emisor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="295" width="165" x="9464" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="124" language="java" name="mx.xpd.cfdi.domain.AuditoriaCliente" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/AuditoriaCliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1609" width="190" x="9069" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="125" language="java" name="mx.xpd.cfdi.domain.Unidad" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Unidad.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="637" width="184" x="7517" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="126" language="java" name="mx.xpd.cfdi.domain.Receptor" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Receptor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="241" width="165" x="9931" y="2028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="127" language="java" name="mx.xpd.cfdi.domain.Cliente" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/Cliente.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1034" y="880"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="128" language="java" name="mx.xpd.cfdi.domain.ConfiguracionPlantilla" project="CFDI" 
+    file="/CFDI/src/main/java/mx/xpd/cfdi/domain/ConfiguracionPlantilla.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="430" y="441"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="129">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="130" name="plantillaDao"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="132">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="133" name="monedaDao"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="136" name="clienteDao"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="139" name="regimenFiscalDao"/>      
+      <multiplicity id="140" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="141">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="142" name="paisEstadosDao"/>      
+      <multiplicity id="143" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="144">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="145" name="paisEstadosDao"/>      
+      <multiplicity id="146" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="147">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="148" name="lugarDao"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="150">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="151" name="configDao"/>      
+      <multiplicity id="152" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="153">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="154" name="clienteDao"/>      
+      <multiplicity id="155" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="157" name="configDao"/>      
+      <multiplicity id="158" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="160" name="datosEmisorDao"/>      
+      <multiplicity id="161" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="163" name="datosEmisorDao"/>      
+      <multiplicity id="164" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="166" name="daoParam"/>      
+      <multiplicity id="167" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="168">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="169" name="registroDao"/>      
+      <multiplicity id="170" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="80" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="171">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="172" name="paisEstadosDao"/>      
+      <multiplicity id="173" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="174">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="175" name="unidadDao"/>      
+      <multiplicity id="176" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="177">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="47"/>  
+  </realization>  
+  <association id="178">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="179" name="parametroDao"/>      
+      <multiplicity id="180" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="181">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="182" name="parametroDao"/>      
+      <multiplicity id="183" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="184">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="185" name="daoGrupoUsuario"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="187">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="188" name="daoGrupoUsuarios"/>      
+      <multiplicity id="189" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="190">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="191" name="plantillaDao"/>      
+      <multiplicity id="192" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="193">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="194" name="registroDao"/>      
+      <multiplicity id="195" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="80" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="196">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="197" name="monedaDao"/>      
+      <multiplicity id="198" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="199">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="200" name="clienteDao"/>      
+      <multiplicity id="201" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="202">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="203" name="clienteDao"/>      
+      <multiplicity id="204" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="205">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="206" name="emisorDao"/>      
+      <multiplicity id="207" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="208">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="209" name="paisEstadosDao"/>      
+      <multiplicity id="210" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="211">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="212" name="plantillaDao"/>      
+      <multiplicity id="213" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="214">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="81"/>  
+  </realization>  
+  <association id="215">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="216" name="parametroDao"/>      
+      <multiplicity id="217" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="218">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="219" name="daoModulo"/>      
+      <multiplicity id="220" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="221">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="222" name="configuracionDao"/>      
+      <multiplicity id="223" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="224">    
+    <end type="SOURCE" refId="101" navigable="false">      
+      <attribute id="225" name="permisos"/>      
+      <multiplicity id="226" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="118" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="227">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="228" name="unidadDao"/>      
+      <multiplicity id="229" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="230">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="231" name="parametroDao"/>      
+      <multiplicity id="232" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="233">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="234" name="regimenFiscalDao"/>      
+      <multiplicity id="235" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="236">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="237" name="csdDao"/>      
+      <multiplicity id="238" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="239">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="240" name="datosEmisorDao"/>      
+      <multiplicity id="241" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="242">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="243" name="productoDao"/>      
+      <multiplicity id="244" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="245">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="246" name="confDao"/>      
+      <multiplicity id="247" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="248">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="79"/>  
+  </realization>  
+  <association id="249">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="250" name="monedaDao"/>      
+      <multiplicity id="251" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="252">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="253" name="productoDao"/>      
+      <multiplicity id="254" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="255">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="256" name="comprobanteDao"/>      
+      <multiplicity id="257" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="258">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="259" name="regimenFiscalDao"/>      
+      <multiplicity id="260" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="261">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="262" name="certificadoDao"/>      
+      <multiplicity id="263" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="264">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="265" name="registroDao"/>      
+      <multiplicity id="266" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="80" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="267">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="268" name="lugarDao"/>      
+      <multiplicity id="269" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="270">    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="271" name="datosEmisorDao"/>      
+      <multiplicity id="272" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="273">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="54"/>  
+  </realization>  
+  <association id="274">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="275" name="userDao"/>      
+      <multiplicity id="276" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="277">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="278" name="paisEstadoDao"/>      
+      <multiplicity id="279" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="281" name="monedaDao"/>      
+      <multiplicity id="282" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="283">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="284" name="daoEmisor"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="286">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="287" name="auditoriaDao"/>      
+      <multiplicity id="288" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="289">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="290" name="unidadDao"/>      
+      <multiplicity id="291" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="292">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="50"/>  
+  </realization>  
+  <association id="293">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="294" name="daoPermiso"/>      
+      <multiplicity id="295" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="296">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="297" name="grupoUsuarioDao"/>      
+      <multiplicity id="298" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="299">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="300" name="parametroDao"/>      
+      <multiplicity id="301" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="302">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="303" name="unidadDao"/>      
+      <multiplicity id="304" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="305">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="76"/>  
+  </realization>  
+  <association id="306">    
+    <end type="SOURCE" refId="110" navigable="false">      
+      <attribute id="307" name="conceptos"/>      
+      <multiplicity id="308" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="117" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="309">    
+    <end type="SOURCE" refId="93" navigable="false">      
+      <attribute id="310" name="emisor"/>      
+      <multiplicity id="311" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="123" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="312">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="313" name="emisorDao"/>      
+      <multiplicity id="314" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="315">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="316" name="parametroDao"/>      
+      <multiplicity id="317" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="318">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="319" name="empleadoDao"/>      
+      <multiplicity id="320" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="321">    
+    <end type="SOURCE" refId="58"/>    
+    <end type="TARGET" refId="65"/>  
+  </realization>  
+  <association id="322">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="323" name="csdDao"/>      
+      <multiplicity id="324" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="325">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="326" name="datosEmisorDao"/>      
+      <multiplicity id="327" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="328">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="84"/>  
+  </realization>  
+  <association id="329">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="330" name="parametroDao"/>      
+      <multiplicity id="331" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="332">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="333" name="csdDao"/>      
+      <multiplicity id="334" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="335">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="336" name="monedaDao"/>      
+      <multiplicity id="337" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="338">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="339" name="comprobanteDao"/>      
+      <multiplicity id="340" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="341">    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="85"/>  
+  </realization>  
+  <association id="342">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="343" name="regimenFiscalDao"/>      
+      <multiplicity id="344" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="345">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="346" name="usuarioDao"/>      
+      <multiplicity id="347" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="348">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="349" name="permisoDao"/>      
+      <multiplicity id="350" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="351">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="352" name="productoDao"/>      
+      <multiplicity id="353" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="354">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="355" name="parametroDao"/>      
+      <multiplicity id="356" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="357">    
+    <end type="SOURCE" refId="94" navigable="false">      
+      <attribute id="358" name="receptor"/>      
+      <multiplicity id="359" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="126" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="360">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="361" name="daoGrupoUsuarios"/>      
+      <multiplicity id="362" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="363">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="364" name="datosEmisorDao"/>      
+      <multiplicity id="365" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="366">    
+    <end type="SOURCE" refId="87"/>    
+    <end type="TARGET" refId="80"/>  
+  </realization>  
+  <association id="367">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="368" name="certificadoDao"/>      
+      <multiplicity id="369" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="370">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="371" name="csdDao"/>      
+      <multiplicity id="372" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="373">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="374" name="monedaDao"/>      
+      <multiplicity id="375" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="376">    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="78"/>  
+  </realization>  
+  <association id="377">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="378" name="csdDao"/>      
+      <multiplicity id="379" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="380">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="381" name="regimenFiscalDao"/>      
+      <multiplicity id="382" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="383">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="384" name="configuracionDao"/>      
+      <multiplicity id="385" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="386">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="387" name="userDao"/>      
+      <multiplicity id="388" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="389">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="390" name="parametroDao"/>      
+      <multiplicity id="391" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="392">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="393" name="regimenFiscalDao"/>      
+      <multiplicity id="394" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="395">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="396" name="comprobanteDao"/>      
+      <multiplicity id="397" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="398">    
+    <end type="SOURCE" refId="126" navigable="false">      
+      <attribute id="399" name="domicilio"/>      
+      <multiplicity id="400" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="121" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="401">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="402" name="plantillaDao"/>      
+      <multiplicity id="403" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="404">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="405" name="datosDao"/>      
+      <multiplicity id="406" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="407">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="408" name="plantillaDao"/>      
+      <multiplicity id="409" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="410">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="411" name="grupoUsuarioDao"/>      
+      <multiplicity id="412" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="413">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="414" name="emisorDao"/>      
+      <multiplicity id="415" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="416">    
+    <end type="SOURCE" refId="86"/>    
+    <end type="TARGET" refId="77"/>  
+  </realization>  
+  <association id="417">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="418" name="permisoDao"/>      
+      <multiplicity id="419" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="420">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="421" name="emisorDao"/>      
+      <multiplicity id="422" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="423">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="424" name="lugarEmisionDao"/>      
+      <multiplicity id="425" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="426">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="427" name="lugarEmisionDao"/>      
+      <multiplicity id="428" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="429">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="430" name="clienteDao"/>      
+      <multiplicity id="431" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="432">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="433" name="productoDao"/>      
+      <multiplicity id="434" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="435">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="436" name="monedaDao"/>      
+      <multiplicity id="437" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="438">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="74"/>  
+  </realization>  
+  <association id="439">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="440" name="usuarioDao"/>      
+      <multiplicity id="441" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="442">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="443" name="auditoriaDao"/>      
+      <multiplicity id="444" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="445">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="446" name="clienteDao"/>      
+      <multiplicity id="447" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="448">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="449" name="productoDao"/>      
+      <multiplicity id="450" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="451">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="452" name="productoDao"/>      
+      <multiplicity id="453" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="454">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="455" name="comprobanteDao"/>      
+      <multiplicity id="456" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="457">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="458" name="usuarioDao"/>      
+      <multiplicity id="459" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="460">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="461" name="daoUsuarios"/>      
+      <multiplicity id="462" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="463">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="464" name="lugarDao"/>      
+      <multiplicity id="465" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="466">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="467" name="grupoUsuarioDao"/>      
+      <multiplicity id="468" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="469">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="470" name="daoParametro"/>      
+      <multiplicity id="471" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="472">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="473" name="comprobanteDao"/>      
+      <multiplicity id="474" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="475">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="476" name="comprobanteDao"/>      
+      <multiplicity id="477" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="478">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="479" name="plantillaDao"/>      
+      <multiplicity id="480" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="481">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="482" name="comprobanteDao"/>      
+      <multiplicity id="483" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="484">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="485" name="csdDao"/>      
+      <multiplicity id="486" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="487">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="488" name="datosEmisorDao"/>      
+      <multiplicity id="489" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="490">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="491" name="unidadDao"/>      
+      <multiplicity id="492" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="493">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="494" name="permisoDao"/>      
+      <multiplicity id="495" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="496">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="497" name="lugarDao"/>      
+      <multiplicity id="498" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="499">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="500" name="lugarDao"/>      
+      <multiplicity id="501" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="502">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="62"/>  
+  </realization>  
+  <realization id="503">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="70"/>  
+  </realization>  
+  <association id="504">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="505" name="regimenFiscalDao"/>      
+      <multiplicity id="506" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="507">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="83"/>  
+  </realization>  
+  <realization id="508">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="64"/>  
+  </realization>  
+  <association id="509">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="510" name="clienteDao"/>      
+      <multiplicity id="511" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="512">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="513" name="csdDao"/>      
+      <multiplicity id="514" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="515">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="516" name="auditoriaDao"/>      
+      <multiplicity id="517" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="518">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="519" name="MonedaDao"/>      
+      <multiplicity id="520" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="521">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="522" name="monedaDao"/>      
+      <multiplicity id="523" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="524">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="57"/>  
+  </realization>  
+  <association id="525">    
+    <end type="SOURCE" refId="94" navigable="false">      
+      <attribute id="526" name="emisor"/>      
+      <multiplicity id="527" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="123" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="528">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="529" name="monedaDao"/>      
+      <multiplicity id="530" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="531">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="532" name="clienteDao"/>      
+      <multiplicity id="533" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="534">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="535" name="lugarEmisionDao"/>      
+      <multiplicity id="536" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="537">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="538" name="parametroDao"/>      
+      <multiplicity id="539" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="540">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="541" name="confDao"/>      
+      <multiplicity id="542" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="543">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="544" name="datosEmisorDao"/>      
+      <multiplicity id="545" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="546">    
+    <end type="SOURCE" refId="123" navigable="false">      
+      <attribute id="547" name="domicilio"/>      
+      <multiplicity id="548" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="121" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="549">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="550" name="paisEstadosDao"/>      
+      <multiplicity id="551" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="552">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="553" name="productoDao"/>      
+      <multiplicity id="554" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="555">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="556" name="paisEstadosDao"/>      
+      <multiplicity id="557" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="558">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="559" name="productoDao"/>      
+      <multiplicity id="560" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="561">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="562" name="configDao"/>      
+      <multiplicity id="563" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="564">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="565" name="moduloDao"/>      
+      <multiplicity id="566" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="567">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="568" name="permisoDao"/>      
+      <multiplicity id="569" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="570">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="571" name="grupoDao"/>      
+      <multiplicity id="572" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="573">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="574" name="lugarEmisionDao"/>      
+      <multiplicity id="575" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="576">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="577" name="userDao"/>      
+      <multiplicity id="578" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="579">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="580" name="daoUsuario"/>      
+      <multiplicity id="581" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="582">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="583" name="daoEmisor"/>      
+      <multiplicity id="584" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="585">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="586" name="datosEmisorDao"/>      
+      <multiplicity id="587" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="588">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="48"/>  
+  </realization>  
+  <association id="589">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="590" name="configuracionCFDIDao"/>      
+      <multiplicity id="591" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="592">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="72"/>  
+  </realization>  
+  <nesting id="593">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <association id="594">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="595" name="clienteDao"/>      
+      <multiplicity id="596" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="597">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="598" name="auditoriaDao"/>      
+      <multiplicity id="599" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="78" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="600">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="601" name="userDao"/>      
+      <multiplicity id="602" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="65" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="603">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="604" name="unidadDao"/>      
+      <multiplicity id="605" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="64" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="606">    
+    <end type="SOURCE" refId="94" navigable="false">      
+      <attribute id="607" name="conceptos"/>      
+      <multiplicity id="608" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="110" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

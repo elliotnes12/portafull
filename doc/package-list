@@ -1,0 +1,14 @@
+mx.xpd.cfdi.domain
+mx.xpd.cfdi.domain.cfdi
+mx.xpd.cfdi.domain.cfdi.pdf
+mx.xpd.cfdi.domain.cfdi.pdf.timbre
+mx.xpd.cfdi.domain.cfdi.timbre
+mx.xpd.cfdi.domain.map
+mx.xpd.cfdi.exception
+mx.xpd.cfdi.mvc
+mx.xpd.cfdi.repo
+mx.xpd.cfdi.security
+mx.xpd.cfdi.test
+mx.xpd.cfdi.timbrado.service
+mx.xpd.cfdi.util
+mx.xpd.service

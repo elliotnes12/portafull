@@ -1,0 +1,230 @@
+body {
+  background-image: url('../img/fondo.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #132333;
+}
+	
+ html, body, h1, form, fieldset, input {
+  margin: 0;
+  padding: 0;
+  border: none;
+  }
+
+body { font-family: Helvetica, Arial, sans-serif; font-size: 15px; }
+
+#forma {
+			color: #fff;
+			text-shadow: 0px 1px 0px #333;
+            background: rgba(0,0,0,0.23);
+			-webkit-box-shadow: 1px 1px 1px 0 rgba(255,255,255,0.7) inset, -3px 3px 2px 0 rgba(0,0,0,0.95);
+			box-shadow: 1px 1px 1px 0 rgba(255,255,255,0.7) inset, -3px 3px 2px 0 rgba(0,0,0,0.95);
+			text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+			-webkit-transition: none;
+			-moz-transition: none;
+			-o-transition: none;
+			transition: none;
+			-webkit-transform: none;
+			transform: none;
+			-webkit-transform-origin: 50% 50% 0;
+			transform-origin: 50% 50% 0;
+			border-radius: 20px;
+            margin: 20px;
+			width: 400px;
+			height: 400px;
+
+            }
+
+#forma a {
+      color: #CCC;
+      text-shadow: 0px -1px 0px #000;
+	  font-size:18px;
+	  text-decoration: none;
+      }
+
+ #forma a:hover {
+      color: #FC0;
+      }	  
+	  
+#forma fieldset {
+      padding: 20px;
+      }
+	  
+input.text {
+      -webkit-border-radius: 15px;
+      -moz-border-radius: 15px;
+      border-radius: 8px;
+      border:solid 1px #FFF;
+      font-size: 20px;
+      width: 85%;
+      padding: 7px 8px 7px 40px;
+      -moz-box-shadow: 0px 1px 0px #777;
+      -webkit-box-shadow: 0px 1px 3px #363636;
+	  background: #ddd url('../img/inputSprite.png') no-repeat 4px 5px;
+	  background: url('../img/inputSprite.png') no-repeat 4px 5px, -moz-linear-gradient(
+           center bottom,
+           rgb(225,225,225) 0%,
+           rgb(215,215,215) 54%,
+           rgb(173,173,173) 100%
+           );
+	  background:  url('../img/inputSprite.png') no-repeat 4px 5px, -webkit-gradient(
+          linear,
+          left bottom,
+          left top,
+          color-stop(0, rgb(225,225,225)),
+          color-stop(0.54, rgb(215,215,215)),
+          color-stop(1, rgb(173,173,173))
+          );
+      color:#333;
+      text-shadow:0px 1px 0px #FFF;
+}	  
+
+ input#j_password { 
+ 	background-position: 4px 7px; 
+	background-position: 1px 7px, 0px 0px;
+	}
+	
+ input#j_password { 
+ 	background-position: 4px -59px; 
+	background-position: 1px -59px, 0px 0px;
+	}
+	
+ input#rfc { 
+ 	background-position: 4px -27px; 
+	background-position: 1px -27px, 0px 0px; 
+	}
+	
+#forma h2 {
+	color: #fff;
+	text-shadow: 0px -1px 0px #000;
+	border-bottom: solid #B0BAE6 1px;
+	-moz-box-shadow: 0px 1px 0px #3a3a3a;
+	text-align: center;
+	padding: 18px;
+	margin: 0px;
+	font-weight: normal;
+	font-size: 18px;
+	font-family: Lucida Grande, Helvetica, Arial, sans-serif;
+	}
+	
+
+input:focus{ outline:none }
+
+#submit {
+	width: 318px;
+	height: 72px;
+	border: none;
+	text-indent: -9999px;
+	background: url('../img/createAccountButton.png') no-repeat;
+	cursor: pointer;
+	float: initial;
+	}
+	
+	#submit:hover { background-position: 0px -73px; }
+	#submit:active { background-position: 0px -145px; }
+	
+ #forma p {
+      position: relative;
+      }
+	  
+fieldset label.infield {
+    color: #333;
+    text-shadow: 0px 1px 0px #fff;
+    position: absolute;
+    text-align: left;
+    top: 7px !important;
+    left: 43px !important;
+    line-height: 29px;
+    }
+
+
+.container{
+margin: 0 auto;
+width: 960px;
+}
+.logo{
+text-align: center;
+margin-bottom: 40px;
+}
+
+.dock{
+ width: 700px;
+ margin-left: 70px;
+}
+.dock ul{
+display: inline-block;
+float: left;
+width: auto;
+margin: 0px;
+padding: 0px;
+list-style: none;
+background: rgba(0, 0, 0, 0.3);
+padding-right: 76px;
+}
+.dock ul li {
+width: auto;
+height: auto;
+display: inline-block;
+bottom: 0;
+vertical-align: bottom;
+margin-top: -43px;
+}
+.dock ul li a {
+display: block;
+height: 100px;
+width: 100px;
+position: relative;
+-webkit-transition-property: width, height,margin-top;
+-webkit-transition-duration: 0.5s;
+-o-transition-property: width, height,margin-top;
+-o-transition-duration: 0.5s;
+-moz-transition-property: width, height,margin-top;
+-moz-transition-duration: 0.5s;
+}
+.dock ul li a:hover {
+width: 150px;
+height: 150px;
+margin-top: -50px;
+}
+.dock ul li a img {
+width: 100%;
+position: absolute;
+bottom: 0;
+left: 0;
+border: none;
+padding: 0px 0px 0px 30px;
+}
+.dock_left{
+width: 31px;
+-webkit-transform: rotate(33deg);
+-moz-transform: rotate(33deg);
+-o-transform: rotate(33deg);
+position: relative;
+background: #EEE;
+overflow: hidden;
+float: left;
+height: 100px;
+z-index: 2;
+margin: -18px;
+}
+.dock_right{
+width: 36px;
+-webkit-transform: rotate(-33deg);
+-moz-transform: rotate(-33deg);
+-o-transform: rotate(-33deg);
+position: relative;
+background: #EEE;
+overflow: hidden;
+float: left;
+height: 100px;
+z-index: 2;
+margin: -18px;
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    background-image: url('../img/fondomovil.jpg');
+  }
+}

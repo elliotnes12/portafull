@@ -1,0 +1,280 @@
+@font-face{
+    font-family: maryad;
+    src:url('../font/maryad/MYRIADPRO-REGULAR.OTF');
+}
+body{
+    font-family: maryad;
+    font-size: 12px;
+}
+div.header{
+    font-weight: bold;
+}
+div.header a{
+    color: #202C69;
+}
+div.header .aviso{
+    /*color: #FFF;*/
+}
+li.divider{
+    border: 1px solid #202C69;
+}
+div.content{
+    background-color: #E6E6E6;
+    margin: auto;
+    max-width: 1080px;
+}
+div.container{
+    max-width: 1080px;
+}
+ul.breadcrumb{
+    display: none;
+}
+table.comprobantes{
+    font-size: 12px;
+}
+table.comprobantes td{
+    padding: 0px;
+}
+div.container{
+
+}
+.dropdown.menu.medium-horizontal > li.is-dropdown-submenu-parent > a::after {
+    border-color: #202C69 transparent transparent;
+}
+.is-drilldown-submenu-parent > a::after{
+    border-color: transparent transparent transparent #202c69;
+}
+.js-drilldown-back > a::before{
+    border-color: transparent #202c69 transparent transparent;
+}
+/*input[type="text"]{
+    margin: 0;
+    padding: 0;
+    width: auto;
+}*/
+.modal{
+    border-left: 1px solid #fbfbfb;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    /*width: 90%*/
+}
+div#btnAdd{
+    margin-bottom: 15px;
+    text-align: right;
+}
+div.overflow{
+    overflow-x: auto;
+    width: 100%;
+}
+html, body{
+    /*background: none;*/
+    height: 100%;
+}
+div#menu{
+    clear: both;
+    height: inherit;
+}
+div#menuBottom{
+    background: -webkit-linear-gradient(0deg, rgba(158,133,49,1) 0, #FAD76B 51%, #9E8531 100%);
+    background: -moz-linear-gradient(90deg, rgba(158,133,49,1) 0, #FAD76B 51%, #9E8531 100%);
+    background: linear-gradient(90deg, rgba(158,133,49,1) 0, #FAD76B 51%, #9E8531 100%);
+    background-position: 50% 50%;
+    height: 5px;
+}
+div#menu-container{
+    background: rgb(38,41,107);
+}
+.dropdown.menu.medium-horizontal > li.is-dropdown-submenu-parent > a::after {
+    border-color: #fff transparent transparent;
+}
+.is-drilldown-submenu-parent > a::after{
+    border-color: transparent transparent transparent #fff;
+}
+.js-drilldown-back > a::before{
+    border-color: transparent #fff transparent transparent;
+}
+div.header a {
+    color: #fff;
+    text-decoration: none;
+}
+div#lineTop{
+    background: -webkit-linear-gradient(0deg, rgba(158,133,49,1) 0, #FAD76B 51%, #9E8531 100%);
+    background: -moz-linear-gradient(90deg, rgba(158,133,49,1) 0, #FAD76B 51%, #9E8531 100%);
+    background: linear-gradient(90deg, rgba(158,133,49,1) 0, #FAD76B 51%, #9E8531 100%);
+    background-position: 50% 50%;
+    height: 8px;
+}
+.is-drilldown {
+    background: rgb(38,41,107);
+}
+.top-bar ul {
+    background: rgb(38,41,107);
+    color: #fff;
+    padding: 0;
+}
+.submenu{
+    background: rgba(38,41,107,0.85) !important;
+}
+ul.menu li{
+    padding: 0 8px;
+}
+.submenu li{
+    padding: 0;
+}
+ul.menu li:hover > a{
+    color: #EECC6C;
+}
+ul.submenu li:hover{
+    border-left: 2px solid #EECC6C;
+}
+.top-bar{
+    /*padding-bottom: 0px;*/
+}
+.top-bar{
+    background-color: #fefafb;
+}
+div.content{
+    background: #fefafb;
+    min-height: calc(100% - 190px);
+    padding-bottom: 5%;
+    padding-top: 50px;
+}
+table thead tr{
+    background: #202c6c;
+    color: #fff;
+}
+table tbody tr:hover{
+    background: #b9c1d0;
+}
+.table th, .table td {
+    padding: 8px;
+    border-top: 1px solid #202c6c;
+}
+#invoice .accordion-heading a, td a{
+    color: #202c6c;
+    text-decoration: none;
+}
+#invoice .accordion-heading a:hover, td a:hover{
+    color: #9E8531;
+    text-decoration: none;
+}
+#invoice th{
+    /*border:1px solid #001F54;*/
+    font-weight: normal !important;
+    font-size: 11px;
+}
+thead .sorting_asc {
+    background: url(../img/sort_asc_white.png) no-repeat center right !important;
+}
+thead .sorting_desc {
+    background: url(../img/sort_desc_white.png) no-repeat center right !important;
+}
+h5.blue {
+    background: #202C6C;
+    color: white;
+    padding: 2px;
+    font-size: 12px !important;
+    /*width: 80%;*/
+}
+.footer{
+    background: #fefafb;
+    color: #fff;
+    min-height: 20%;
+    margin: 0 auto;
+    max-width: 960px;
+}
+.modal{
+    left: 0 !important;
+    margin-left:50% !important;
+    max-width: 900px;
+    transform: translate(-50%, 0);
+    width: 90% !important;
+}
+.submenu{
+    display: none;
+}
+#logo{
+    margin-top: 25px;
+    width:100%;
+    display:flex;
+    flex-direction:row;
+}
+.flex__sectionLeft{
+	width:22%;
+}
+.flex__sectionRight
+{
+ width: 61%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 85px;
+	
+}
+.aviso{
+    background-color: #EECC6C;
+    color: #202c69;
+    padding: 5px;
+    text-align: center;
+}
+.btn-primary{
+    background: #9e8531 !important;
+}
+span.required:after, label.required:after{
+    color:#c00;
+    content: "*";
+    font-family:serif;
+    font-size: 12px;
+}
+.overloadedTable{
+    overflow-y: auto;
+    width: 100%;
+}
+label.tinytext{
+    font-size: 11px;
+}
+@media (max-width: 767px) {
+    #avisoParent{
+        margin:0 -0.5rem;
+    }
+    .modal{
+        left: 0;
+        width: 100% !important;
+    }
+    ul.menu li{
+        padding: 0;
+    }
+}
+@media (max-width: 639px) {
+    #avisoParent{
+        margin:0 -0.5rem;
+    }
+    .modal{
+        left: 0;
+        width: 100% !importantexit;
+    }
+    body{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    div#logo{
+        /* Centrar el logo en pantallas pequeñas */
+        margin-left: 50%;
+        transform: translate(-50%, 0);
+        clear: both;
+    }
+    ul
+    .header, .content{
+        width: 100%;
+    }
+    .submenu{
+        background: rgba(38,41,107,1) !important;
+    }
+    .btn{
+        width: 100%;
+    }
+    ul.menu li{
+        padding: 0;
+    }
+}

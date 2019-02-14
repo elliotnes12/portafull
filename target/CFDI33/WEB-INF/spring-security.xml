@@ -1,0 +1,181 @@
+<beans:beans xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+                        http://www.springframework.org/schema/security http://www.springframework.org/schema/security/spring-security-3.1.xsd">
+
+
+
+	<http auto-config="false" use-expressions="true" entry-point-ref="entryPoint">
+
+			<intercept-url pattern="/sync"  access="hasAnyRole('ROLE_ANONYMOUS')" />
+			<intercept-url pattern="/sync/"  access="hasAnyRole('ROLE_ANONYMOUS')" />
+			<intercept-url pattern="/sync/*"  access="hasAnyRole('ROLE_ANONYMOUS')" />
+			<intercept-url pattern="/sync/clientes/"  access="hasAnyRole('ROLE_ANONYMOUS')" />
+			<intercept-url pattern="/sync/clientes/*"  access="hasAnyRole('ROLE_ANONYMOUS')" />
+			<!-- URL Moneda 
+			<intercept-url pattern="/moneda/"	access="hasAnyRole('monedas_USER','monedas_MANAGER')" />
+			<intercept-url pattern="/moneda"	access="hasAnyRole('monedas_USER','monedas_MANAGER')" />
+			<intercept-url pattern="/moneda/form" access="hasAnyRole('monedas_MANAGER')" />
+			<intercept-url pattern="/moneda/agregar" access="hasAnyRole('monedas_MANAGER')" />
+			<intercept-url pattern="/moneda/editar/*" access="hasAnyRole('monedas_MANAGER')" />
+			<intercept-url pattern="/moneda/detalle/*" 	access="hasAnyRole('monedas_USER','monedas_MANAGER')" />
+			<intercept-url pattern="/rest/moneda/eliminar/*" access="hasAnyRole('monedas_MANAGER')" />
+			-->
+			<!-- URL Cliente -->
+			<intercept-url pattern="/cliente" access="hasAnyRole('clientes_USER','clientes_MANAGER')"/> 
+			<intercept-url pattern="/cliente/" access="hasAnyRole('clientes_USER','clientes_MANAGER')"/> 
+			<intercept-url pattern="/cliente/form" access="hasAnyRole('clientes_MANAGER')"/> 
+			<intercept-url pattern="/cliente/agregar" access="hasAnyRole('clientes_MANAGER')"/> 
+			<intercept-url pattern="/cliente/editar/*" access="hasAnyRole('clientes_MANAGER')"/> 
+			<intercept-url pattern="/cliente/detalle/*" access="hasAnyRole('clientes_USER','clientes_MANAGER')"/> 
+			<intercept-url pattern="/rest/cliente/eliminar/*" access="hasAnyRole('clientes_MANAGER')"/> 
+			<!-- URL Lugar de Emision -->
+			<intercept-url pattern="/lugarExpedicion/" access="hasAnyRole('lugaresExpedicion_USER','lugaresExpedicion_MANAGER')"/> 
+			<intercept-url pattern="/lugarExpedicion/" access="hasAnyRole('lugaresExpedicion_USER','lugaresExpedicion_MANAGER')"/> 
+			<intercept-url pattern="/lugarEmision/form" access="hasAnyRole('lugaresExpedicion_MANAGER')"/> 
+			<intercept-url pattern="/lugarExpedicion/agregar" access="hasAnyRole('lugaresExpedicion_MANAGER')"/> 
+			<intercept-url pattern="/lugarExpedicion/editar/*" access="hasAnyRole('lugaresExpedicion_MANAGER')"/> 
+			<intercept-url pattern="/lugarExpedicion/detalle/*" access="hasAnyRole('lugaresExpedicion_USER','lugaresExpedicion_MANAGER')"/> 
+			<intercept-url pattern="/rest/lugarExpedicion/eliminar/*" access="hasAnyRole('lugaresExpedicion_MANAGER')"/>
+			<!-- URL Unidades 
+			<intercept-url pattern="/unidad" access="hasAnyRole('unidades_USER','unidades_MANAGER')"/> 
+			<intercept-url pattern="/unidad/" access="hasAnyRole('unidades_USER','unidades_MANAGER')"/> 
+			<intercept-url pattern="/unidad/form" access="hasAnyRole('unidades_MANAGER')"/> 
+			<intercept-url pattern="/unidad/agregar" access="hasAnyRole('unidades_MANAGER')"/> 
+			<intercept-url pattern="/unidad/editar/*" access="hasAnyRole('unidades_MANAGER')"/> 
+			<intercept-url pattern="/unidad/detalle/*" access="hasAnyRole('unidades_USER','unidades_MANAGER')"/> 
+			<intercept-url pattern="/rest/unidad/eliminar/*" access="hasAnyRole('unidades_MANAGER')"/>
+			-->
+			<!-- URL CFDs Emitidos -->
+			<intercept-url pattern="/comprobante/listar/" access="hasAnyRole('cfdEmitido_USER','cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/comprobante/listar/" access="hasAnyRole('cfdEmitido_USER','cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/comprobante/email*" access="hasAnyRole('cfdEmitido_USER','cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/comprobante/enviarEmail*" access="hasAnyRole('cfdEmitido_USER','cfdEmitido_MANAGER')"/>  		
+			<intercept-url pattern="/comprobante/" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/comprobante" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/comprobante/*" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/nominas" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/nominas/" access="hasAnyRole('cfdEmitido_MANAGER')"/>  
+			<intercept-url pattern="/nominas/*" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/nomina/*" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<!-- URL Retenciones Emitidos -->
+			<intercept-url pattern="/retenciones/listar/" access="hasAnyRole('cfdEmitido_USER','cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/retenciones/listar/" access="hasAnyRole('cfdEmitido_USER','cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/retenciones/email*" access="hasAnyRole('cfdEmitido_USER','cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/retenciones/enviarEmail*" access="hasAnyRole('cfdEmitido_USER','cfdEmitido_MANAGER')"/>  		
+			<intercept-url pattern="/retenciones/" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/retenciones" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<intercept-url pattern="/retenciones/*" access="hasAnyRole('cfdEmitido_MANAGER')"/>
+			<!-- URL Producto Servicio -->
+			<intercept-url pattern="/productoServicio" access="hasAnyRole('productoServicio_USER','productoServicio_MANAGER')"/> 
+			<intercept-url pattern="/productoServicio/" access="hasAnyRole('productoServicio_USER','productoServicio_MANAGER')"/> 
+			<intercept-url pattern="/productoServicio/form" access="hasAnyRole('productoServicio_MANAGER')"/> 
+			<intercept-url pattern="/productoServicio/agregar" access="hasAnyRole('productoServicio_MANAGER')"/> 
+			<intercept-url pattern="/productoServicio/editar/*" access="hasAnyRole('productoServicio_MANAGER')"/> 
+			<intercept-url pattern="/productoServicio/detalle/*" access="hasAnyRole('productoServicio_USER','productoServicio_MANAGER')"/> 
+			<intercept-url pattern="/rest/productoServicio/eliminar/*" access="hasAnyRole('productoServicio_MANAGER')"/>
+			<!-- URL Datos del Emisor -->
+			<intercept-url pattern="/datosEmisor" access="hasAnyRole('datosEmisor_USER','datosEmisor_MANAGER')"/> 
+			<intercept-url pattern="/datosEmisor/" access="hasAnyRole('datosEmisor_USER','datosEmisor_MANAGER')"/>
+			<intercept-url pattern="/datosEmisor/*" access="hasAnyRole('datosEmisor_MANAGER')"/>
+			<!-- URL CSD -->
+			<intercept-url pattern="/csd" access="hasAnyRole('csdEmisor_USER','csdEmisor_MANAGER')"/> 
+			<intercept-url pattern="/csd/" access="hasAnyRole('csdEmisor_USER','csdEmisor_MANAGER')"/> 
+			<intercept-url pattern="/csd/agregar" access="hasAnyRole('csdEmisor_MANAGER')"/> 
+			<intercept-url pattern="/csd/nuevo" access="hasAnyRole('csdEmisor_MANAGER')"/> 
+			<intercept-url pattern="/csd/editar/*" access="hasAnyRole('csdEmisor_MANAGER')"/> 
+			<intercept-url pattern="/csd/detalle/*" access="hasAnyRole('csdEmisor_USER','csdEmisor_MANAGER')"/> 
+			<intercept-url pattern="/rest/csd/eliminar/*" access="hasAnyRole('csdEmisor_MANAGER')"/>
+			<!-- URL Grupo de Usuario -->
+			<intercept-url pattern="/grupoUsuario" access="hasAnyRole('grupoUsuarios_USER','grupoUsuarios_MANAGER')"/> 
+			<intercept-url pattern="/grupoUsuario/" access="hasAnyRole('grupoUsuarios_USER','grupoUsuarios_MANAGER')"/> 
+			<intercept-url pattern="/grupoUsuario/form" access="hasAnyRole('grupoUsuarios_MANAGER')"/> 
+			<intercept-url pattern="/grupoUsuario/agregar" access="hasAnyRole('grupoUsuarios_MANAGER')"/> 
+			<intercept-url pattern="/grupoUsuario/editar/*" access="hasAnyRole('grupoUsuarios_MANAGER')"/> 
+			<intercept-url pattern="/grupoUsuario/detalle/*" access="hasAnyRole('grupoUsuarios_USER','grupoUsuarios_MANAGER')"/> 
+			<intercept-url pattern="/rest/grupoUsuario/eliminar/*" access="hasAnyRole('grupoUsuarios_MANAGER')"/>
+			<!-- URL Usuario -->
+			<intercept-url pattern="/usuario" access="hasAnyRole('usuarios_USER','usuarios_MANAGER')"/> 
+			<intercept-url pattern="/usuario/" access="hasAnyRole('usuarios_USER','usuarios_MANAGER')"/> 
+			<intercept-url pattern="/usuario/form" access="hasAnyRole('usuarios_MANAGER')"/> 
+			<intercept-url pattern="/usuario/agregar" access="hasAnyRole('usuarios_MANAGER')"/> 
+			<intercept-url pattern="/usuario/editar/*" access="hasAnyRole('usuarios_MANAGER')"/> 
+			<intercept-url pattern="/usuario/detalle/*" access="hasAnyRole('usuarios_USER','usuarios_MANAGER')"/> <intercept-url pattern="/rest/usuario/eliminar/*" access="hasAnyRole('usuarios_MANAGER')"/>
+			<!-- URL Plantillas -->
+			<intercept-url pattern="/plantilla" access="hasAnyRole('plantillas_USER','plantillas_MANAGER')"/> 
+			<intercept-url pattern="/plantilla/" access="hasAnyRole('plantillas_USER','plantillas_MANAGER')"/> 
+			<intercept-url pattern="/plantilla/form" access="hasAnyRole('plantillas_MANAGER')"/> 
+			<intercept-url pattern="/plantilla/editar/*" access="hasAnyRole('plantillas_MANAGER')"/> 
+			<intercept-url pattern="/plantilla/editar" access="hasAnyRole('plantillas_MANAGER')"/>
+			<!-- URL Auditoria 
+			<intercept-url pattern="/auditoria" access="hasAnyRole('auditoria_USER','auditoria_MANAGER')"/> 
+			<intercept-url pattern="/auditoria/" access="hasAnyRole('auditoria_USER','auditoria_MANAGER')"/> 
+			<intercept-url pattern="/auditoria/detalle/*" access="hasAnyRole('auditoria_USER','auditoria_MANAGER')"/>
+			-->
+			<!-- URL Regimen Fiscal 
+			<intercept-url pattern="/regimenFiscal" access="hasAnyRole('regimen_USER','regimen_MANAGER')"/> 
+			<intercept-url pattern="/regimenFiscal/" access="hasAnyRole('regimen_USER','regimen_MANAGER')"/> 
+			<intercept-url pattern="/regimenFiscal/form" access="hasAnyRole('regimen_MANAGER')"/> 
+			<intercept-url pattern="/regimenFiscal/agregar" access="hasAnyRole('regimen_MANAGER')"/> 
+			<intercept-url pattern="/regimenFiscal/editar/*" access="hasAnyRole('regimen_MANAGER')"/> 
+			<intercept-url pattern="/regimenFiscal/detalle/*" access="hasAnyRole('regimen_USER','regimen_MANAGER')"/> 
+			<intercept-url pattern="/rest/regimenFiscal/eliminar/*" access="hasAnyRole('regimen_MANAGER')"/>
+			-->
+			<!-- URL Parametro -->
+			<intercept-url pattern="/parametro" access="hasAnyRole('parametro_USER','parametro_MANAGER')"/> 
+			<intercept-url pattern="/parametro/" access="hasAnyRole('parametro_USER','parametro_MANAGER')"/> 
+			<intercept-url pattern="/parametro/form" access="hasAnyRole('parametro_MANAGER')"/> 
+			<intercept-url pattern="/parametro/agregar" access="hasAnyRole('parametro_MANAGER')"/> 
+			<intercept-url pattern="/parametro/editar/*" access="hasAnyRole('parametro_MANAGER')"/> 
+			<intercept-url pattern="/parametro/detalle/*" access="hasAnyRole('parametro_USER','parametro_MANAGER')"/> 
+			<intercept-url pattern="/rest/parametro/eliminar/*" access="hasAnyRole('parametro_MANAGER')"/>
+			<!-- URL Configuracion CFDI -->
+			<intercept-url pattern="/configuracionCFDI" access="hasAnyRole('configuracionCFDI_USER','configuracionCFDI_MANAGER')"/>
+			<intercept-url pattern="/configuracionCFDI/" access="hasAnyRole('configuracionCFDI_USER','configuracionCFDI_MANAGER')"/>
+			<intercept-url pattern="/configuracionCFDI/editar" access="hasAnyRole('configuracionCFDI_MANAGER')"/>
+			<intercept-url pattern="/configuracionCFDI/editar/" access="hasAnyRole('configuracionCFDI_MANAGER')"/>
+			<intercept-url pattern="/configuracionCFDI/editar/*" access="hasAnyRole('configuracionCFDI_MANAGER')"/>
+			<!-- URL login -->
+			<intercept-url pattern="/login/inicio" access="hasAnyRole('base_MANAGER')"/>
+			<intercept-url pattern="/login/cambiarPassword/*" access="hasAnyRole('base_MANAGER')"/>
+			<intercept-url pattern="/login/loginSuccessful" access="hasAnyRole('base_MANAGER')"/>
+			<intercept-url pattern="/login/passwordEditado" access="hasAnyRole('base_MANAGER')"/>		
+			
+			
+            <logout logout-success-url="/login" />
+            
+		<custom-filter position="FORM_LOGIN_FILTER" ref="customUsernamePasswordAuthenticationFilter" />
+		<access-denied-handler ref="accessDeniedHandler" />
+	</http>
+
+	<beans:bean id="customUsernamePasswordAuthenticationFilter"
+		class="mx.xpd.cfdi.security.CustomUsernamePasswordAuthenticationFilter">
+		<beans:property name="authenticationManager" ref="authenticationManager" />
+
+	</beans:bean>
+	
+	
+
+	<beans:bean id="entryPoint"
+		class="org.springframework.security.web.authentication.LoginUrlAuthenticationEntryPoint">
+		<beans:property name="loginFormUrl" value="/login/" />
+	</beans:bean>
+
+	<!-- Configure Authentication mechanism -->
+	<beans:bean name="userAuthenticationProvider"
+		class="org.springframework.security.authentication.dao.DaoAuthenticationProvider">
+		<beans:property name="userDetailsService" ref="userDetailsService" />
+	</beans:bean>
+
+	<beans:bean id="userDetailsService" class="mx.xpd.cfdi.security.UserDetailsServiceImpl" />
+
+	<beans:bean id="accessDeniedHandler" class="mx.xpd.cfdi.security.MyAccessDeniedHandler">
+		<beans:property name="accessDeniedUrl" value="/CFDI/errores/noPermisos" />
+	</beans:bean>
+
+	<authentication-manager alias="authenticationManager">
+		<authentication-provider ref="userAuthenticationProvider" />
+	</authentication-manager>
+
+    
+</beans:beans>

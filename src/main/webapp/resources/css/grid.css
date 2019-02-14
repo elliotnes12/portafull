@@ -1,0 +1,92 @@
+.container-float {
+  clear: both;
+  padding: 0.5em;
+}
+
+.container-float > * {
+  display: block;
+}
+
+@media screen and (min-width: 993px) {
+  .container-float > * {
+    float: left;
+  }
+}
+
+.image-responsive {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  max-width: 100%;
+  margin: 0px auto;
+  width: 252px;
+}
+
+.title-separador {
+  display: block;
+  background: #26296b;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 35px;
+  margin: 5px 0px 5px 0px;
+  width: 100%;
+}
+
+.title-razonSocial {
+  display: block;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  padding: 8px;
+}
+
+.field {
+  color: #000;
+  display: block;
+  font-size: 15px;
+  text-align: center;
+  position: relative;
+  padding: 7px;
+  overflow: hidden;
+}
+
+.field-label {
+  display: block;
+  font-weight: bold;
+  padding: 4px;
+  width: 100%;
+}
+
+.field-input {
+  display: block;
+  width: 100%;
+}
+
+.field .mascara {
+  height: 18px;
+  line-height: 18px;
+  overflow: hidden;
+}
+
+.field .mascara > *:last-child {
+  background: #fff;
+  position: absolute;
+  top: 30px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  z-index: 111;
+}
+
+#lugarExpedicion, #regimen, #btnTipoComprobante, #usoCFDI, #formaPago {
+  width: 70%;
+  line-height: 33px;
+}
+
+.ui-selectonemenu .ui-selectonemenu-trigger {
+  background: #26296b !important;
+}
+
+.ui-icon {
+  background-image: url("/CFDI33/static/resources/img/ui-icons-light.png") !important;
+}

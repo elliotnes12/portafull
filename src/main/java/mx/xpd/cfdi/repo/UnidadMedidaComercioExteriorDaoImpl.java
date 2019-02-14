@@ -1,0 +1,32 @@
+package mx.xpd.cfdi.repo;
+
+import java.util.List;
+
+import javax.persistence.EntityManager;
+import javax.persistence.Query;
+
+import mx.xpd.cfdi.domain.UnidadMedidaComercioExterior;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+@Repository
+@Transactional
+public class UnidadMedidaComercioExteriorDaoImpl implements UnidadMedidaComercioExteriorDao {
+
+	@Autowired
+	@Qualifier(value = "entityManager")
+	private EntityManager em;
+	
+	@SuppressWarnings("unchecked")
+	@Override
+	public List<UnidadMedidaComercioExterior> findAll() {
+		String strQuery = "from UnidadMedidaComercioExterior";
+		return (List<UnidadMedidaComercioExterior>) em.createQuery(strQuery).getResultList();
+	}
+
+	
+
+}
